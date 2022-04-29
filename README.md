@@ -1,2 +1,2 @@
 # minesweeper-phyton
-This is a minesweeper game, its purpose is to guess all the boxes, if you press a mine you will lose
+Minesweeper is single-player logic-based computer game played on rectangular board whose object is to locate a predetermined number of randomly-placed "mines" in the shortest possible time by clicking on "safe" squares while avoiding the squares with mines
